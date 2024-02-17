@@ -1,0 +1,3 @@
+this is chat application
+emogi 
+name 
